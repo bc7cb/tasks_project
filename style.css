@@ -253,6 +253,13 @@ header h1 i {
 }
 
 
+.action-buttons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
 
 
 
