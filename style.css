@@ -307,6 +307,24 @@ footer {
     box-shadow: 0 7px 15px rgba(106, 17, 203, 0.3);
 }
 
+.btn-secondary {
+    background: #ffd32a;
+    color: #333;
+}
+
+.btn-secondary:hover {
+    background: #ffc107;
+}
+
+.btn-danger {
+    background: #ff7675;
+    color: white;
+}
+
+.btn-danger:hover {
+    background: #fd5654;
+}
+
 
 
 
