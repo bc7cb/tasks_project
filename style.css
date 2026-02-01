@@ -107,6 +107,13 @@ header h1 i {
     color: white;
     border-color: #6a11cb;
 }
+.stats-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
 
 
 
